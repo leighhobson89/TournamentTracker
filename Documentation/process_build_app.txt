@@ -1,0 +1,9 @@
+Process of building application:
+
+- requirements
+- planning big picture
+- planning forms and logic
+- build class libraries in VS
+- build forms and give them their names for the code and assign their properties
+- SQL Database Design
+- Interface, and GlobalConfig for database connectio,

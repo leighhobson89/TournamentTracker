@@ -192,7 +192,6 @@
             this.scoreButton.TabIndex = 13;
             this.scoreButton.Text = "Score";
             this.scoreButton.UseVisualStyleBackColor = true;
-            this.scoreButton.Click += new System.EventHandler(this.scoreButton_Click);
             // 
             // TournamentViewerForm
             // 

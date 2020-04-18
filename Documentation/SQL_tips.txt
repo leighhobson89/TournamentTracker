@@ -1,0 +1,3 @@
+SQL TIPS
+
+nvarchar - takes up twice as much space on DB but can use unicode i.e. all international characters not just ascii characters like varchar does

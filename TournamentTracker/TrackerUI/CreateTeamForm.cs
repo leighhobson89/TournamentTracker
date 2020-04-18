@@ -16,35 +16,5 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
-
-        private void headerLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tournamentNameLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tournamentNameValue_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void firstNameLabel_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void firstNameValue_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void mobileLabel_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -1,0 +1,25 @@
+NOT SCALABLE
+
+model
+
+if (usingSQL == true)
+{
+	open database connection
+	save the data
+	get back the update model
+}
+
+if (usingTextFile == true) 
+{
+	open text file
+	generate id
+	save the data
+}
+
+===============================================================================================================
+
+How do we get that connection information?
+How do we connect to two different data sources to do the same task?
+
+Static class for data source info
+Interface for data sources

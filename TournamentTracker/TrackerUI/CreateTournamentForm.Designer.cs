@@ -84,7 +84,6 @@
             this.entryFeeValue.Size = new System.Drawing.Size(100, 35);
             this.entryFeeValue.TabIndex = 12;
             this.entryFeeValue.Text = "0";
-            this.entryFeeValue.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // entryFeeLabel
             // 
@@ -96,7 +95,6 @@
             this.entryFeeLabel.Size = new System.Drawing.Size(131, 37);
             this.entryFeeLabel.TabIndex = 11;
             this.entryFeeLabel.Text = "Entry Fee:";
-            this.entryFeeLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // selectTeamDropDown
             // 
@@ -126,7 +124,6 @@
             this.createNewTeamLink.TabIndex = 15;
             this.createNewTeamLink.TabStop = true;
             this.createNewTeamLink.Text = "create new";
-            this.createNewTeamLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // addTeamButton
             // 
@@ -167,7 +164,6 @@
             this.tournamentPlayersListBox.Name = "tournamentPlayersListBox";
             this.tournamentPlayersListBox.Size = new System.Drawing.Size(245, 182);
             this.tournamentPlayersListBox.TabIndex = 18;
-            this.tournamentPlayersListBox.SelectedIndexChanged += new System.EventHandler(this.tournamentPlayersListBox_SelectedIndexChanged);
             // 
             // tournamentPlayersLabel
             // 
@@ -179,7 +175,6 @@
             this.tournamentPlayersLabel.Size = new System.Drawing.Size(204, 37);
             this.tournamentPlayersLabel.TabIndex = 19;
             this.tournamentPlayersLabel.Text = "Teams / Players:";
-            this.tournamentPlayersLabel.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // deleteSelectedPrizeButton
             // 
