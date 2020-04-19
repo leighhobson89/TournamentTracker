@@ -6,4 +6,6 @@ Process of building application:
 - build class libraries in VS
 - build forms and give them their names for the code and assign their properties
 - SQL Database Design
-- Interface, and GlobalConfig for database connectio,
+- Interface, and GlobalConfig for database connection
+- Data Cleanup, moving DataAccess and Model classes into seperate folders at early stage, and fixing references on namespaces, and adding using statements, checking contracts for interface etc
+- Dapper connection to SQL database (app.config connection string added - connectionstrings.com)

@@ -1,7 +1,6 @@
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
-D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
@@ -15,3 +14,16 @@ D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
 D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Data.SqlClient.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Data.SqlClient.xml
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.AccessControl.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.Permissions.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.Principal.Windows.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.AccessControl.xml
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.Permissions.xml
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\System.Security.Principal.Windows.xml

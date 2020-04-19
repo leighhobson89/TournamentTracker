@@ -1,0 +1,10 @@
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\bin\Debug\net461\TrackerLibrary.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\bin\Debug\net461\TrackerLibrary.pdb
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\bin\Debug\net461\Dapper.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.csprojAssemblyReference.cache
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.AssemblyInfoInputs.cache
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.AssemblyInfo.cs
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.csproj.CopyComplete
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.dll
+D:\Leigh\Desktop\Development\Tournament Tracker\TournamentTracker\TrackerLibrary\obj\Debug\net461\TrackerLibrary.pdb
