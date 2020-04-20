@@ -9,3 +9,4 @@ Process of building application:
 - Interface, and GlobalConfig for database connection
 - Data Cleanup, moving DataAccess and Model classes into seperate folders at early stage, and fixing references on namespaces, and adding using statements, checking contracts for interface etc
 - Dapper connection to SQL database (app.config connection string added - connectionstrings.com)
+- Create text database connection file, read id, write records in new row
