@@ -10,3 +10,4 @@ Process of building application:
 - Data Cleanup, moving DataAccess and Model classes into seperate folders at early stage, and fixing references on namespaces, and adding using statements, checking contracts for interface etc
 - Dapper connection to SQL database (app.config connection string added - connectionstrings.com)
 - Create text database connection file, read id, write records in new row
+- Receive input from user for adding new member, and create SQL and Text based connections to databases.

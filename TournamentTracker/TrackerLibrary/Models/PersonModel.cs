@@ -6,6 +6,10 @@
     public class PersonModel
     {
         /// <summary>
+        /// The unique identifier for the person.
+        /// </summary>
+        public int Id { get; set; }
+        /// <summary>
         /// Represents team member's first name.
         /// </summary>
         public string FirstName { get; set; }
@@ -23,6 +27,6 @@
         /// <summary>
         /// Represents team member's mobile number.
         /// </summary>
-        public string MobilephoneNumber { get; set; }
+        public string MobilePhoneNumber { get; set; }
     }
 }
